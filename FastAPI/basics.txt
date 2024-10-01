@@ -1,0 +1,3 @@
+https://fastapi.tiangolo.com/
+
+FastAPI seems to be easier than Django and there is a ready OpenAPI config file compatibility.
